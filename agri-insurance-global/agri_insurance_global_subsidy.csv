@@ -1,0 +1,88 @@
+Country,ISO_A3,subsidy
+Mauritius,MUS,No subsidy
+Honduras,HND,No subsidy
+Ireland,IRL,No subsidy
+Jamaica,JAM,No subsidy
+Ecuador,ECU,No subsidy
+Denmark,DNK,No subsidy
+Malawi,MWI,No subsidy
+New Zealand,NZL,No subsidy
+Nicaragua,NIC,No subsidy
+Panama,PAN,No subsidy
+Paraguay,PRY,No subsidy
+Cambodia,KHM,No subsidy
+Sri Lanka,LKA,No subsidy
+Sweden,SWE,No subsidy
+Bolivia,BOL,No subsidy
+Belgium,BEL,No subsidy
+Tanzania,TZA,No subsidy
+United Kingdom,GBR,No subsidy
+Australia,AUS,No subsidy
+Venezuela,VEN,No subsidy
+Argentina,ARG,No subsidy
+Ghana,GHA,No subsidy
+Germany,DEU,No subsidy
+Switzerland,CHE,Subsidy (0.01% to 20%)
+Zambia,ZMB,Subsidy (0.01% to 20%)
+Mongolia,MNG,Subsidy (20.01% to 40%)
+South Africa,ZAF,Subsidy (20.01% to 40%)
+Morocco,MAR,Subsidy (20.01% to 40%)
+Netherlands,NLD,Subsidy (40.01% to 60%)
+Turkey,TUR,Subsidy (40.01% to 60%)
+Croatia,HRV,Subsidy (40.01% to 60%)
+Nigeria,NGA,Subsidy (40.01% to 60%)
+Canada,CAN,Subsidy (40.01% to 60%)
+Philippines,PHL,Subsidy (40.01% to 60%)
+Republic of Macedonia,MKD,Subsidy (40.01% to 60%)
+Romania,ROU,Subsidy (40.01% to 60%)
+Chile,CHL,Subsidy (40.01% to 60%)
+Senegal,SEN,Subsidy (40.01% to 60%)
+Serbia,SRB,Subsidy (40.01% to 60%)
+Slovakia,SVK,Subsidy (40.01% to 60%)
+Slovenia,SVN,Subsidy (40.01% to 60%)
+South Korea,KOR,Subsidy (40.01% to 60%)
+Sudan,SDN,Subsidy (40.01% to 60%)
+Brazil,BRA,Subsidy (40.01% to 60%)
+Bosnia and Herzegovina,BIH,Subsidy (40.01% to 60%)
+Russia,RUS,Subsidy (40.01% to 60%)
+Rwanda,RWA,Subsidy (40.01% to 60%)
+Cyprus,CYP,Subsidy (40.01% to 60%)
+Japan,JPN,Subsidy (40.01% to 60%)
+Haiti,HTI,Subsidy (40.01% to 60%)
+Hungary,HUN,Subsidy (40.01% to 60%)
+Armenia,ARM,Subsidy (40.01% to 60%)
+Israel,ISR,Subsidy (40.01% to 60%)
+El Salvador,SLV,Subsidy (40.01% to 60%)
+Montenegro,MNE,Subsidy (40.01% to 60%)
+Uruguay,URY,Subsidy (40.01% to 60%)
+Latvia,LVA,Subsidy (40.01% to 60%)
+Ukraine,UKR,Subsidy (40.01% to 60%)
+Luxembourg,LUX,Subsidy (40.01% to 60%)
+Czech Republic,CZE,Subsidy (40.01% to 60%)
+Austria,AUT,Subsidy (40.01% to 60%)
+Moldova,MDA,Subsidy (60.01% to 80%)
+Bulgaria,BGR,Subsidy (60.01% to 80%)
+Spain,ESP,Subsidy (60.01% to 80%)
+India,IND,Subsidy (60.01% to 80%)
+Indonesia,IDN,Subsidy (60.01% to 80%)
+Italy,ITA,Subsidy (60.01% to 80%)
+United States of America,USA,Subsidy (60.01% to 80%)
+France,-99,Subsidy (60.01% to 80%)
+Portugal,PRT,Subsidy (60.01% to 80%)
+Poland,POL,Subsidy (60.01% to 80%)
+Nepal,NPL,Subsidy (60.01% to 80%)
+Ethiopia,ETH,Subsidy (60.01% to 80%)
+Bangladesh,BGD,Subsidy (80.01% to 100%)
+Mozambique,MOZ,Subsidy (80.01% to 100%)
+Thailand,THA,Subsidy (80.01% to 100%)
+Peru,PER,Subsidy (80.01% to 100%)
+Mexico,MEX,Subsidy (80.01% to 100%)
+Kenya,KEN,Subsidy (80.01% to 100%)
+People's Republic of China,CHN,Subsidy (80.01% to 100%)
+Iran,IRN,Subsidy (80.01% to 100%)
+Finland,FIN,Subsidy (Unknown rate)
+Malta,MLT,Subsidy (Unknown rate)
+Kazakhstan,KAZ,Subsidy (Unknown rate)
+Estonia,EST,Subsidy (Unknown rate)
+Vietnam,VNM,Subsidy (Unknown rate)
+Algeria,DZA,Subsidy (Unknown rate)

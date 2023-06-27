@@ -1,0 +1,52 @@
+Country,ISO_A3,insured_area
+Venezuela,VEN,0% to 20%
+Mongolia,MNG,0% to 20%
+Moldova,MDA,0% to 20%
+Nicaragua,NIC,0% to 20%
+Panama,PAN,0% to 20%
+Philippines,PHL,0% to 20%
+Poland,POL,0% to 20%
+Italy,ITA,0% to 20%
+Romania,ROU,0% to 20%
+Honduras,HND,0% to 20%
+Greece,GRC,0% to 20%
+Nepal,NPL,0% to 20%
+Slovenia,SVN,0% to 20%
+Russia,RUS,0% to 20%
+El Salvador,SLV,0% to 20%
+Ukraine,UKR,0% to 20%
+Brazil,BRA,0% to 20%
+South Korea,KOR,0% to 20%
+Chile,CHL,0% to 20%
+Ethiopia,ETH,0% to 20%
+Costa Rica,CRI,0% to 20%
+Colombia,COL,0% to 20%
+Dominican Republic,DOM,0% to 20%
+Ecuador,ECU,0% to 20%
+New Zealand,NZL,0% to 20%
+India,IND,20.01% to 40%
+Hungary,HUN,20.01% to 40%
+South Africa,ZAF,20.01% to 40%
+Czech Republic,CZE,20.01% to 40%
+Turkey,TUR,20.01% to 40%
+Morocco,MAR,20.01% to 40%
+Iran,IRN,20.01% to 40%
+Argentina,ARG,40.01% to 60%
+Bulgaria,BGR,40.01% to 60%
+Japan,JPN,40.01% to 60%
+Germany,DEU,40.01% to 60%
+France,-99,40.01% to 60%
+Australia,AUS,60.01% to 80%
+Austria,AUT,60.01% to 80%
+Thailand,THA,60.01% to 80%
+Switzerland,CHE,60.01% to 80%
+Sweden,SWE,60.01% to 80%
+Uruguay,URY,60.01% to 80%
+Mexico,MEX,60.01% to 80%
+Kazakhstan,KAZ,60.01% to 80%
+People's Republic of China,CHN,60.01% to 80%
+Spain,ESP,60.01% to 80%
+Canada,CAN,80.01% to 100%
+Israel,ISR,80.01% to 100%
+United States of America,USA,80.01% to 100%
+Mauritius,MUS,80.01% to 100%
