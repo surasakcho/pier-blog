@@ -1,0 +1,53 @@
+@article{chu2016review,
+  title={A review on predicting ground PM2. 5 concentration using satellite aerosol optical depth},
+  author={Chu, Yuanyuan and Liu, Yisi and Li, Xiangyu and Liu, Zhiyong and Lu, Hanson and Lu, Yuanan and Mao, Zongfu and Chen, Xi and Li, Na and Ren, Meng and others},
+  journal={Atmosphere},
+  volume={7},
+  number={10},
+  pages={129},
+  year={2016},
+  publisher={MDPI}
+}
+
+@misc{lyapustin2018,
+  doi = {10.5067/MODIS/MCD19A2.006},
+  url = {https://lpdaac.usgs.gov/products/mcd19a2v006/},
+  author = {Lyapustin,   Alexei and Wang,   Yujie},
+  title = {MCD19A2 MODIS/Terra+Aqua Land Aerosol Optical Depth Daily L2G Global 1km SIN Grid V006},
+  publisher = {NASA EOSDIS Land Processes Distributed Active Archive Center},
+  year = {2018}
+}
+
+@misc{gistda2021pm25,
+  author = {GISTDA สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน),
+  year = {2021},
+  title = {รู้ทัน PM 2.5 ด้วยข้อมูลจากอวกาศ},
+  url = {https://www.gistda.or.th/news_view.php?n_id=1272&lang=EN}
+}
+
+@misc{openaq2024,
+  author = {OpenAQ,  
+  url = {https://explore.openaq.org/}, 
+}
+
+
+@misc{gupta2018converting,
+  author = {Gupta, Pawan and Follette-Cook, Melanie},
+  year = {2018},
+  title = {Converting AOD to PM2.5: a statistical approach},
+  url = {https://appliedsciences.nasa.gov/sites/default/files/D2P3_AODPMEx.pdf}
+}
+
+@article{Su2017,
+  title = {An intercomparison of AOD-converted PM2.5 concentrations using different approaches for estimating aerosol vertical distribution},
+  volume = {166},
+  ISSN = {1352-2310},
+  url = {http://dx.doi.org/10.1016/j.atmosenv.2017.07.054},
+  DOI = {10.1016/j.atmosenv.2017.07.054},
+  journal = {Atmospheric Environment},
+  publisher = {Elsevier BV},
+  author = {Su,  Tianning and Li,  Jing and Li,  Chengcai and Lau,  Alexis Kai-Hon and Yang,  Dongwei and Shen,  Chuanyang},
+  year = {2017},
+  month = oct,
+  pages = {531–542}
+}
