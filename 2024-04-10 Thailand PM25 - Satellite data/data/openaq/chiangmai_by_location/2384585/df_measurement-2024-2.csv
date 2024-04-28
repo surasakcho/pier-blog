@@ -1,0 +1,2 @@
+locationId,location,parameter,value,date,unit,coordinates,country,city,isMobile,isAnalysis,entity,sensorType
+2384585,Mae Khong Health Center,pm25,14.290476322174072,"{'utc': '2024-02-05T10:00:00+00:00', 'local': '2024-02-05T17:00:00+07:00'}",µg/m³,"{'latitude': 19.385735, 'longitude': 98.439518}",TH,,False,,Private Organization,low-cost sensor

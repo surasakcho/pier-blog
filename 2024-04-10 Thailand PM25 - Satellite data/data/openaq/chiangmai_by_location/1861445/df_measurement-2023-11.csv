@@ -1,0 +1,2 @@
+locationId,location,parameter,value,date,unit,coordinates,country,city,isMobile,isAnalysis,entity,sensorType
+1861445,"Fangchanupathum School 1, Fang, Chiang Mai",pm25,9.571428571428571,"{'utc': '2023-11-20T07:00:00+00:00', 'local': '2023-11-20T14:00:00+07:00'}",µg/m³,"{'latitude': 19.863943477644817, 'longitude': 99.17937755730453}",TH,,False,,Private Organization,low-cost sensor

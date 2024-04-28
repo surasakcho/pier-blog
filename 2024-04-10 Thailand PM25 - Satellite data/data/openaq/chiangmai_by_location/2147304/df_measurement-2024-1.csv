@@ -1,0 +1,2 @@
+locationId,location,parameter,value,date,unit,coordinates,country,city,isMobile,isAnalysis,entity,sensorType
+2147304,Tin That,pm25,36.64999961853027,"{'utc': '2024-01-26T14:00:00+00:00', 'local': '2024-01-26T21:00:00+07:00'}",µg/m³,"{'latitude': 19.3172193, 'longitude': 98.439397}",TH,,False,,Private Organization,low-cost sensor

@@ -1,0 +1,7 @@
+locationId,location,parameter,value,date,unit,coordinates,country,city,isMobile,isAnalysis,entity,sensorType
+225669,"City Hall, Chiangmai",pm25,16.0,"{'utc': '2021-04-30T00:00:00+00:00', 'local': '2021-04-30T07:00:00+07:00'}",µg/m³,"{'latitude': 18.840732, 'longitude': 98.96978}",TH,,False,,Governmental Organization,reference grade
+225669,"City Hall, Chiangmai",pm25,16.0,"{'utc': '2021-04-29T23:00:00+00:00', 'local': '2021-04-30T06:00:00+07:00'}",µg/m³,"{'latitude': 18.840732, 'longitude': 98.96978}",TH,,False,,Governmental Organization,reference grade
+225669,"City Hall, Chiangmai",pm25,16.0,"{'utc': '2021-04-29T22:00:00+00:00', 'local': '2021-04-30T05:00:00+07:00'}",µg/m³,"{'latitude': 18.840732, 'longitude': 98.96978}",TH,,False,,Governmental Organization,reference grade
+225669,"City Hall, Chiangmai",pm25,16.0,"{'utc': '2021-04-29T21:00:00+00:00', 'local': '2021-04-30T04:00:00+07:00'}",µg/m³,"{'latitude': 18.840732, 'longitude': 98.96978}",TH,,False,,Governmental Organization,reference grade
+225669,"City Hall, Chiangmai",pm25,16.0,"{'utc': '2021-04-29T20:00:00+00:00', 'local': '2021-04-30T03:00:00+07:00'}",µg/m³,"{'latitude': 18.840732, 'longitude': 98.96978}",TH,,False,,Governmental Organization,reference grade
+225669,"City Hall, Chiangmai",pm25,16.0,"{'utc': '2021-04-29T19:00:00+00:00', 'local': '2021-04-30T02:00:00+07:00'}",µg/m³,"{'latitude': 18.840732, 'longitude': 98.96978}",TH,,False,,Governmental Organization,reference grade

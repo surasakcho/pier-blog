@@ -1,0 +1,2 @@
+locationId,location,parameter,value,date,unit,coordinates,country,city,isMobile,isAnalysis,entity,sensorType
+2432814, ไดมอนด์,pm25,35.807638804117836,"{'utc': '2024-02-16T01:00:00+00:00', 'local': '2024-02-16T08:00:00+07:00'}",µg/m³,"{'latitude': 18.941970789965023, 'longitude': 98.94292144786002}",TH,,False,,Private Organization,low-cost sensor

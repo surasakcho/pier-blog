@@ -1,0 +1,2 @@
+locationId,location,parameter,value,date,unit,coordinates,country,city,isMobile,isAnalysis,entity,sensorType
+2142801,Wiang Nuea: Wat Phra Phutthabat,pm25,42.13333320617676,"{'utc': '2024-01-25T14:00:00+00:00', 'local': '2024-01-25T21:00:00+07:00'}",µg/m³,"{'latitude': 19.3910772, 'longitude': 98.4534912}",TH,,False,,Private Organization,low-cost sensor

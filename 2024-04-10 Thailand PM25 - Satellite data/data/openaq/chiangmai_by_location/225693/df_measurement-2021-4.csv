@@ -1,0 +1,6 @@
+locationId,location,parameter,value,date,unit,coordinates,country,city,isMobile,isAnalysis,entity,sensorType
+225693,"Debaratana Vejjanukul Hospital, Mae Chaem",pm25,7.0,"{'utc': '2021-04-30T00:00:00+00:00', 'local': '2021-04-30T07:00:00+07:00'}",µg/m³,"{'latitude': 18.498333, 'longitude': 98.379444}",TH,,False,,Governmental Organization,reference grade
+225693,"Debaratana Vejjanukul Hospital, Mae Chaem",pm25,7.0,"{'utc': '2021-04-29T23:00:00+00:00', 'local': '2021-04-30T06:00:00+07:00'}",µg/m³,"{'latitude': 18.498333, 'longitude': 98.379444}",TH,,False,,Governmental Organization,reference grade
+225693,"Debaratana Vejjanukul Hospital, Mae Chaem",pm25,7.0,"{'utc': '2021-04-29T22:00:00+00:00', 'local': '2021-04-30T05:00:00+07:00'}",µg/m³,"{'latitude': 18.498333, 'longitude': 98.379444}",TH,,False,,Governmental Organization,reference grade
+225693,"Debaratana Vejjanukul Hospital, Mae Chaem",pm25,7.0,"{'utc': '2021-04-29T20:00:00+00:00', 'local': '2021-04-30T03:00:00+07:00'}",µg/m³,"{'latitude': 18.498333, 'longitude': 98.379444}",TH,,False,,Governmental Organization,reference grade
+225693,"Debaratana Vejjanukul Hospital, Mae Chaem",pm25,7.0,"{'utc': '2021-04-29T19:00:00+00:00', 'local': '2021-04-30T02:00:00+07:00'}",µg/m³,"{'latitude': 18.498333, 'longitude': 98.379444}",TH,,False,,Governmental Organization,reference grade

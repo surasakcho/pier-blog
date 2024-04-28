@@ -1,0 +1,2 @@
+locationId,location,parameter,value,date,unit,coordinates,country,city,isMobile,isAnalysis,entity,sensorType
+2375197,Mae Khong Border Patrol,pm25,34.60000038146973,"{'utc': '2024-02-03T07:00:00+00:00', 'local': '2024-02-03T14:00:00+07:00'}",µg/m³,"{'latitude': 19.385612, 'longitude': 98.437128}",TH,,False,,Private Organization,low-cost sensor
